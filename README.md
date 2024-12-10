@@ -13,21 +13,21 @@
             <h1>Giới thiệu chung</h1>
             <hr>
             <div class="gioithieu">
-                <p>Họ và tên: Nguyễn Tiến Dũng</p>
+                <p>Họ và tên: Phạm Đức Triss</p>
                 <p>Nơi sinh: Bình Phước</p>
-                <p>Điện thoại: 098-xxxx-xxx</p>
-                <p>Email: nguyendungisaac@gmail.com</p>
+                <p>Điện thoại: 097-xxxx-xxx</p>
+                <p>Email: Phamtri@gmail.com</p>
             </div>
         </div>        
         <div>
             <h1>Sở thích</h1>
             <hr>
             <ul>
-                <li>Môn học: Sinh, Toán, Hóa</li>
-                <li>Thể thao: Bóng rổ, Vật tay</li>
-                <li>Đọc sách, xem phim
+                <li>Môn học: Lý, Toán, Hóa</li>
+                <li>Thể thao: Bóng Đá, Vật tay</li>
+                <li>Đọc truyện,Phim
                     <ol>
-                        <li>Triệu Phú khu ổ chuột</li>
+                        <li>tổng tài bá đạo và  cô thư kí</li>
                         <li>Biệt đội đánh thuê</li>
                     </ol>
                 </li>
@@ -38,8 +38,8 @@
             <hr>
             <ul>
                 <li>Vô địch vật tay giải trẻ IFA tỉnh Bình Phước</li>
-                <li>Giải nhì bóng rổ liên trường tỉnh Bình Phước</li>
-                <li>Hội thi văn nghệ 20-11 cấp trường. Vai trò: Cổ vũ</li>
+                <li> Bóng đá cấp trường</li>
+                <li>Hội thi văn nghệ 20-11 cấp trường. Vai trò: Múa</li>
             </ul>
         </div>
         <div>
@@ -108,7 +108,7 @@
             <h1>Website thường ghé thăm</h1>
             <hr>
             <ol>
-                <iframe name="trangweb" src="https://chantroisangtao.vn/">Nội dung này không thể hiện được trên trình duyệt web của bạn.</iframe>
+                <iframe name="trangweb" src="https://motchill.so/">Nội dung này không thể hiện được trên trình duyệt web của bạn.</iframe>
                 <li>Website của bộ sách giáo khoa <a href="https://chantroisangtao.vn/" target="trangweb" title="Trang web sách CTST">Chân trời sáng tạo</a></li>
                 <li>Website của <a href="https://www.nxbgd.vn/" title="NXBGDVN" target="trangweb">Nhà xuất bản Giáo dục Việt Nam</a></li>
                 <li>Website thông tin <a href="https://thanhnien.vn/" title="Thanh niên Online" target="trangweb">Thanh niên Online</a></li>
