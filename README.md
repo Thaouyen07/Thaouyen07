@@ -114,7 +114,7 @@
             <h1>Website thường ghé thăm</h1>
             <hr>
             <ol>
-                <iframe name="trangweb" <src="[https://motchill.so/](https://motchill.so/)">.</iframe>
+                <li>Website phim hay xem <a href="[https://motchill.so/](https://motchill.so/" target="trangweb"title="Trang web phim">.</a></li>
                 <li>Website của bộ sách giáo khoa <a href="https://chantroisangtao.vn/" target="trangweb" title="Trang web sách CTST">Chân trời sáng tạo</a></li>
                 <li>Website của <a href="https://www.nxbgd.vn/" title="NXBGDVN" target="trangweb">Nhà xuất bản Giáo dục Việt Nam</a></li>
                 <li>Website thông tin <a href="https://thanhnien.vn/" title="Thanh niên Online" target="trangweb">Thanh niên Online</a></li>
@@ -128,12 +128,12 @@
             <h2>Hình ảnh</h2>
             <table class="hinhanh">
                 <tr>
-                    <td><img src="Picture/hinh1.jpg" alt="Ruộng bậc thang" title="Ruộng bậc thang"></td>
+                    <td><img src="Picture/hinh1.jpg" alt="Trung du Miền núi Bắc Bộ" title="Trung du miền núi bắc bộ"></td>
                     <td><img src="Picture/hinh2.jpg" alt="Núi Phú Sĩ" title="Núi Phú Sĩ"></td>
                 </tr>
                 <tr>
                     <td><img src="Picture/hinh3.jpg" alt="Phong cảnh đẹp" title="Phong cảnh đẹp"></td>
-                    <td><img src="Picture/hinh4.jpg" alt="Phong cảnh đẹp" title="Phong cảnh đẹp"></td>
+                    <td><img src="Picture/hinh4.jpg" alt="Cảnh Mùa Xuân" title="Cảnh Mùa Xuân"></td>
                 </tr>
             </table>
             <h2>Video</h2>
