@@ -102,7 +102,7 @@
                     <td>Văn NL</td>
                     <td>Toán</td>
                     <td>Toán</td>
-                </trddđ>
+                </tr>
                 <tr>
                     <td colspan="6">Ra chơi 4</td>
                 </tr>
