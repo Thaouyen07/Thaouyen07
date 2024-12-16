@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Trang thông tin cá nhân</title>
+    <title>Trang thông tin cá nhân <title>
     <link rel="stylesheet" type="text/css" href="style.css">
     <style></style>
 </head>
@@ -13,10 +13,10 @@
             <h1>Giới thiệu chung</h1>
             <hr>
             <div class="gioithieu">
-                <p>Họ và tên: Phạm Đức Triss</p>
+                <p>Họ và tên: Lê Cao Thảo Uyên</p>
                 <p>Nơi sinh: Bình Phước</p>
-                <p>Điện thoại: 097-xxxx-xxx</p>
-                <p>Email: Phamtri@gmail.com</p>
+                <p>Điện thoại: 0857-xxxx-xxx</p>
+                <p>Email: Lecaothaouyen07@gmail.com</p>
             </div>
         </div>        
         <div>
@@ -24,11 +24,12 @@
             <hr>
             <ul>
                 <li>Môn học: Lý, Toán, Hóa</li>
-                <li>Thể thao: Bóng Đá, Vật tay</li>
+                <li>Thể thao: Bóng chuyền, đi bộ </li>
                 <li>Đọc truyện,Phim
                     <ol>
-                        <li>tổng tài bá đạo và  cô thư kí</li>
-                        <li>Biệt đội đánh thuê</li>
+                        <li>when the phone rings</li>
+                        <li>Harry Potter</li>
+                        <li>Kungfu Panda 
                     </ol>
                 </li>
             </ul>
@@ -37,8 +38,8 @@
             <h1>Các hoạt động đã tham gia</h1>
             <hr>
             <ul>
-                <li>Vô địch vật tay giải trẻ IFA tỉnh Bình Phước</li>
-                <li> Bóng đá cấp trường</li>
+                <li>Cắm hoa ngày nhà giáo </li>
+                <li> Đại hội chi đoàn trường</li>
                 <li>Hội thi văn nghệ 20-11 cấp trường. Vai trò: Múa</li>
             </ul>
         </div>
@@ -59,48 +60,53 @@
                     <td rowspan="7">Sáng</td>
                     <td>Tiết 1</td>
                     <td>Chào cờ</td>
-                    <td>Sinh</td>
-                    <td>Sinh</td>
-                    <td>Sinh</td>
-                    <td>Toán Năng Lực</td>
+                    <td>Giáo dục quốc phòng</td>
+                    <td>Thể dục</td>
+                    <td>Ngữ Văn</td>
+                    <td>GDKTPL</td>
+                    <td>Vật lý</td>
                 </trddđ>
                 <tr>
                     <td colspan="6">Ra chơi 1</td>
                 </tr>
                 <tr>
                     <td> Tiết 2</td>
-                    <td>Ngoại ngữ</td>
-                    <td>Ngoại ngữ</td>
-                    <td>HĐTNHN</td>
-                    <td>Tin học</td>
-                    <td>Địa lí</td>
+                    <td>Toán NL</td>
+                    <td>Tin Học</td>
+                    <td>Lịch Sử</td>
+                    <td>Ngữ Văn</td>
+                    <td>GDKTPL</td>
+                    <td>Tiếng Anh</td>
                 </tr>
                 <tr>
                     <td> Tiết 3</td>
-                    <td>Toán</td>
-                    <td>Ngoại ngữ</td>
+                    <td>Tiếng Anh</td>
+                    <td>Tin Học</td>
                     <td>HĐTNHN</td>
-                    <td>Tin học</td>
-                    <td>GDQP</td>
+                    <td>Thể Dục</td>
+                    <td>Toán</td>
+                    <td>Toán</td>
                 </tr>
                 <tr>
                     <td colspan="6">Ra chơi 2</td>
                 </tr>
                 <tr>
                     <td> Tiết 4</td>
-                    <td>Ngữ văn</td>
-                    <td>Vật lí</td>
-                    <td>Hóa học</td>
+                    <td>Tiếng Anh</td>
+                    <td>Lịch Sử</td>
+                    <td>HDTNHN</td>
+                    <td>Văn NL</td>
                     <td>Toán</td>
                     <td>Toán</td>
                 </tr>
                 <tr>
                     <td> Tiết 5</td>
-                    <td>Ngữ văn</td>
-                    <td>Vật lí</td>
-                    <td>Hóa học</td>
-                    <td>Toán</td>
-                    <td>Toán</td>
+                    <td>HDTNHN</td>
+                    <td>Trống</td>
+                    <td>Ngữ Văn</td>
+                    <td>Vật Lý</td>
+                    <td>SHCN</td>
+                    <td>Trống</td>
                 </tr>
             </table>
         </div>
