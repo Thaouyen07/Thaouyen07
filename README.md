@@ -101,6 +101,9 @@
                     <td>Văn NL</td>
                     <td>Toán</td>
                     <td>Toán</td>
+                </trddđ>
+                <tr>
+                    <td colspan="6">Ra chơi 4</td>
                 </tr>
                 <tr>
                     <td> Tiết 5</td>
