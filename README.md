@@ -79,6 +79,9 @@
                     <td>Tiếng Anh</td>
                 </tr>
                 <tr>
+                    <td colspan="6">Ra chơi 2</td>
+                </tr>
+                <tr>
                     <td> Tiết 3</td>
                     <td>Tiếng Anh</td>
                     <td>Tin Học</td>
@@ -88,7 +91,7 @@
                     <td>Toán</td>
                 </tr>
                 <tr>
-                    <td colspan="6">Ra chơi 2</td>
+                    <td colspan="6">Ra chơi 3</td>
                 </tr>
                 <tr>
                     <td> Tiết 4</td>
@@ -114,7 +117,7 @@
             <h1>Website thường ghé thăm</h1>
             <hr>
             <ol>
-                <li>Website phim hay xem <a href="[https://motchill.so/](https://motchill.so/" target="trangweb"title="Trang web phim">.</a></li>
+                <li>Website phim hay xem <a href="https://motchill.so/](https://motchill.so/" target="trangweb"title="Trang web phim">.</a></li>
                 <li>Website của bộ sách giáo khoa <a href="https://chantroisangtao.vn/" target="trangweb" title="Trang web sách CTST">Chân trời sáng tạo</a></li>
                 <li>Website của <a href="https://www.nxbgd.vn/" title="NXBGDVN" target="trangweb">Nhà xuất bản Giáo dục Việt Nam</a></li>
                 <li>Website thông tin <a href="https://thanhnien.vn/" title="Thanh niên Online" target="trangweb">Thanh niên Online</a></li>
