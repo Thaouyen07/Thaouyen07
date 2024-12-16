@@ -39,8 +39,8 @@
             <hr>
             <ul>
                 <li>Cắm hoa ngày nhà giáo </li>
-                <li> Đại hội chi đoàn trường</li>
-                <li>Hội thi văn nghệ 20-11 cấp trường. Vai trò: Múa</li>
+                <li>Đại hội chi đoàn trường</li>
+                <li>Hội thi văn nghệ 20-11 cấp trường.Vai trò:Múa</li>
             </ul>
         </div>
         <div>
@@ -55,12 +55,13 @@
                     <td>Thứ tư	</td>
                     <td>Thứ năm	</td>
                     <td>Thứ sáu</td>
+                    <td>Thứ bảy</td>
                 </tr>
                 <tr>
                     <td rowspan="7">Sáng</td>
                     <td>Tiết 1</td>
                     <td>Chào cờ</td>
-                    <td>Giáo dục quốc phòng</td>
+                    <td>GDQP</td>
                     <td>Thể dục</td>
                     <td>Ngữ Văn</td>
                     <td>GDKTPL</td>
