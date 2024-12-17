@@ -114,7 +114,7 @@
                 <li>Website của bộ sách giáo khoa <a href="https://chantroisangtao.vn/" target="trangweb" title="Trang web sách CTST">Chân trời sáng tạo</a></li>
                 <li>Website của <a href="https://www.nxbgd.vn/" title="NXBGDVN" target="trangweb">Nhà xuất bản Giáo dục Việt Nam</a></li>
                 <li>Website thông tin <a href="https://thanhnien.vn/" title="Thanh niên Online" target="trangweb">Thanh niên Online</a></li>
-                <li>Website thông tin <a href="https://vnexpress.net/" title="VNE" target="trangweb">VnExpress</a></li>
+                <li>Website thông tin <a href="https://vi.wikipedia.org/wiki/Trang_Ch%C3%ADnh" title="VNE" target="trang web tham khảo">Wikipedias</a></li>
             </ol>
         </div>
         <div class="nowrap"></div>
